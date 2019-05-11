@@ -2,7 +2,7 @@
 layout: post
 title: "Java 设计模式 -   工厂模式"
 author: SXJCLZH
-date: 2016-09-27 18:15:06 
+date: 2016-09-25 18:15:06 
 categories: 设计模式
 description: "Java 设计模式 - 工厂模式"
 tag: Java

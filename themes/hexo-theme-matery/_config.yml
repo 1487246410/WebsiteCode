@@ -92,9 +92,9 @@ indexbtn:
 # icon/button will not show up if you leave the corresponding socialLink empty
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
-  qq: 123123123
-  github:
-  email: xxx@xx.xx
+  qq: 2833324528
+  github: https://github.com/508laboratory
+  email: 2833324528@qq.com
 
 # Whether to activate the Post TOC, and Configure which title types are supported by TOC support.
 # You can add `toc: false` to the Front-matter of a post to turn off the TOC.
@@ -183,7 +183,7 @@ profile:
 # If you don't want to display this `My Skills` content, you can deactivate or delete this configuration.
 # 在“关于”页面配置"我的技能"信息，如果你不需要这些信息则可以将其设置为不激活或者将其删除.
 mySkills:
-  enable: true
+  enable: false
   data:
     Java:
       background: 'linear-gradient(to right, #FF0066 0%, #FF00CC 100%)'
@@ -221,13 +221,13 @@ postCalendar: true
 # the Gitalk config，default disabled
 # Gitalk 评论模块的配置，默认为不激活
 gitalk:
-  enable: false
-  owner:
-  repo:
+  enable: true
+  owner: 508laboratory
+  repo: 508laboratory.github.io
   oauth:
-    clientId:
-    clientSecret:
-  admin:
+    clientId: xxxx
+    clientSecret: xxxxx
+  admin: schizobulia
 
 # the Gitment config，default disabled
 # Gitment 评论模块的配置，默认为不激活

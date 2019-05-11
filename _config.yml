@@ -88,6 +88,22 @@ deploy:
   repo: https://github.com/508laboratory/508laboratory.github.io
   branch: master
 
+# 搜索
 search:
   path: search.xml
   field: post
+# 中文链接转拼音
+permalink_pinyin:
+  enable: true
+  separator: '-' # default: '-'
+
+# RSS 订阅
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
