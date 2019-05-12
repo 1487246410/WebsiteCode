@@ -210,7 +210,7 @@ mySkills:
 myGallery:
   enable: true
   data:
-    - /medias/featureimages/0.jpg
+    - /medias/featureimages/508_back_1.jpg
     - /medias/featureimages/1.jpg
     - /medias/featureimages/2.jpg
 
