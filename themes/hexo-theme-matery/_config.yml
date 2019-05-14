@@ -225,7 +225,7 @@ gitalk:
   owner: 508laboratory
   repo: 508laboratory.github.io
   oauth:
-    clientId: xxxx
+    clientId: xxxxx
     clientSecret: xxxx
   admin: schizobulia
 
