@@ -67,3 +67,5 @@ tags:
 
 ```
 - [Kibana插件版本号查询](https://search.maven.org/search?q=a:search-guard-kibana-plugin)
+
+<p align="right">编写：武杰</p>

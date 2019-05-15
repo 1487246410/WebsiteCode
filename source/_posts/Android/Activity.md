@@ -75,3 +75,4 @@ onDestroy :此时Activity正在被销毁，也是生命周期最后一个执行�
 ![如何更改Activity的启动模式](http://img.blog.csdn.net/20180402102141784?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveGlhb2h1YW5nbml1MTM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 
+<p align="right">编写：栗郑辉</p>

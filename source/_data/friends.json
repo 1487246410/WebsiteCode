@@ -7,10 +7,24 @@
         "title": "前去学习"
     },
     {
+        "avatar": "https://tuna.moe/assets/img/logo-small.png",
+        "name": "TUNA",
+        "introduction": "清华大学 TUNA 协会",
+        "url": "https://tuna.moe/",
+        "title": "前去学习"
+    },
+    {
         "avatar": "http://www.cad.zju.edu.cn/home/vagblog/favicon.ico",
         "name": "浙大",
         "introduction": "浙江大学可视分析小组博客",
         "url": "http://www.cad.zju.edu.cn/home/vagblog/",
+        "title": "前去学习"
+    },
+    {
+        "avatar": "http://cwiki.apachecn.org/s/zh_CN/6214/6860359b26f1e8cc7164bebdad0e2f04c128c291.19/_/favicon.ico",
+        "name": "ApacheCN",
+        "introduction": "ApacheCN 开源组织",
+        "url": "https://www.ibooker.org.cn/",
         "title": "前去学习"
     }
 ]
