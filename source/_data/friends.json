@@ -1,12 +1,5 @@
 [
     {
-        "avatar": "https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=578aea00eccd7b89e96c3d85371f259a/0dd7912397dda1442eb98678b8b7d0a20df4864c.jpg",
-        "name": "学院",
-        "introduction": "晋城职业技术学院",
-        "url": "http://www.sxjczy.cn",
-        "title": "前去学习"
-    },
-    {
         "avatar": "https://tuna.moe/assets/img/logo-small.png",
         "name": "TUNA",
         "introduction": "清华大学 TUNA 协会",
@@ -25,6 +18,20 @@
         "name": "ApacheCN",
         "introduction": "ApacheCN 开源组织",
         "url": "https://www.ibooker.org.cn/",
+        "title": "前去学习"
+    },
+    {
+        "avatar": "https://aotu.io/img/favicon.ico",
+        "name": "Aotu",
+        "introduction": "凹凸实验室",
+        "url": "https://aotu.io/index.html",
+        "title": "前去学习"
+    },
+    {
+        "avatar": "https://fex.baidu.com/public/images/logo.svg",
+        "name": "FEX",
+        "introduction": "百度前端团队",
+        "url": "https://fex.baidu.com/",
         "title": "前去学习"
     }
 ]

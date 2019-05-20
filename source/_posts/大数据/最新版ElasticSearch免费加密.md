@@ -5,9 +5,8 @@ author: schizobulia
 categories: 大数据
 tags: 
     - 大数据
-    - ElasticSearch
+    - ELK
     - Search-Guard
-    - Kibana
 ---
 
 ### [Search Guard官方地址](https://search-guard.com/)

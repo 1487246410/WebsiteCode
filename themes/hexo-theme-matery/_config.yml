@@ -154,7 +154,7 @@ clicklove:
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
   avatar: /medias/avatar.jpg
-  career: 诚明楼508室
+  career: 指导老师：张婷娟 张惠春 王梅艳
   introduction: If you wish to succeed, you should use persistence as your good friend, experience as your reference, prudence as your brother and hope as your sentry.
 
 # config my projects informations in about page.
@@ -226,8 +226,8 @@ gitalk:
   owner: 508laboratory
   repo: 508laboratory.github.io
   oauth:
-    clientId: xxxx
-    clientSecret: xxxx
+    clientId: xxxxx
+    clientSecret: xxxxxx
   admin: schizobulia
 
 # the Gitment config，default disabled
