@@ -230,8 +230,8 @@ gitalk:
   owner: 508laboratory
   repo: 508laboratory.github.io
   oauth:
-    clientId: xxxxx
-    clientSecret: xxxx
+    clientId: xxxx
+    clientSecret: xxxxx
   admin: schizobulia
 
 # the Gitment config，default disabled
