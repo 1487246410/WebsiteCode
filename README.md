@@ -16,8 +16,8 @@
 
 - #### 部署
 ```
-    1. hexo clean & hexo g
-    2. 修改 themes\hexo-theme-matery\_config.yml 中关于评论的敏感信息
+    1. 修改 themes\hexo-theme-matery\_config.yml 中关于评论的敏感信息
+    2. hexo clean & hexo g
     3. hexo d
     4. 打开网站查看效果
 ```

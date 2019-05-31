@@ -14,6 +14,20 @@
         "title": "前去学习"
     },
     {
+        "avatar": "https://lug.ustc.edu.cn/wiki/_media/wiki/logo.png",
+        "name": "LUG",
+        "introduction": "中国科学技术大学 Linux 用户协会",
+        "url": "https://lug.ustc.edu.cn/wiki/",
+        "title": "前去学习"
+    },
+    {
+        "avatar": "https://avatars0.githubusercontent.com/u/11142440?s=200&v=4",
+        "name": "LZUOSS",
+        "introduction": "兰州大学开源社区",
+        "url": "http://oss.lzu.edu.cn/",
+        "title": "前去学习"
+    },
+    {
         "avatar": "http://cwiki.apachecn.org/s/zh_CN/6214/6860359b26f1e8cc7164bebdad0e2f04c128c291.19/_/favicon.ico",
         "name": "ApacheCN",
         "introduction": "ApacheCN 开源组织",
@@ -32,6 +46,20 @@
         "name": "FEX",
         "introduction": "百度前端团队",
         "url": "https://fex.baidu.com/",
+        "title": "前去学习"
+    },
+    {
+        "avatar": "http://img.alicdn.com/tps/TB1Nv_wKXXXXXbmXVXXXXXXXXXX-295-195.png",
+        "name": "FED",
+        "introduction": "淘宝前端团队",
+        "url": "http://taobaofed.org/",
+        "title": "前去学习"
+    },
+    {
+        "avatar": "http://shumeipai.nxez.com/favicon.ico",
+        "name": "Raspberry Pi",
+        "introduction": "树莓派实验室",
+        "url": "http://shumeipai.nxez.com/",
         "title": "前去学习"
     }
 ]

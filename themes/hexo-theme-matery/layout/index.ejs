@@ -3,7 +3,7 @@
 <% } else { %>
     <%- partial('_partial/bg-cover') %>
 <% } %>
-
+<link rel="stylesheet" href="http://res.layui.com/layui/dist/css/layui.css" media="all">
 <main class="content">
 
     <% if (page.current === 1) { %>
@@ -126,3 +126,25 @@
 <% if (page.total > 1) { %>
 <%- partial('_partial/paging') %>
 <% } %>
+
+<script src="https://cdn.staticfile.org/layer/2.3/layer.js"></script>
+<script src="http://res.layui.com/layui/dist/layui.js" charset="utf-8"></script>
+<script>
+    (function () {
+        layer.config({
+            extend: 'moon/style.css'
+        });
+        layer.open({
+            type: 1,
+            title: '最新消息'
+            , offset: 'rb'
+            , id: 'layerDemo' + 'rb'
+            , content: '<div style="padding: 20px 100px;">' + '镜像站点上线<a target="_blank" href="http://wwa.jcbsb.com/">传送门</a>' + '</div>'
+            , btnAlign: 'c'
+            , shade: 0
+            , yes: function () {
+                layer.closeAll();
+            }
+        });
+    })();
+</script>
