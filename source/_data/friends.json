@@ -61,5 +61,26 @@
         "introduction": "树莓派实验室",
         "url": "http://shumeipai.nxez.com/",
         "title": "前去学习"
+    },
+    {
+        "avatar": "http://cdn.alloyteam.com/assets/img/avatar-8f3f90.png",
+        "name": "AlloyTeam",
+        "introduction": "腾讯全端AlloyTeam团队",
+        "url": "http://www.alloyteam.com/",
+        "title": "前去学习"
+    },
+    {
+        "avatar": "https://75team.com/static/upload/20170523/favicon.ico",
+        "name": "75team",
+        "introduction": "360奇舞团队",
+        "url": "https://75team.com/",
+        "title": "前去学习"
+    },
+    {
+        "avatar": "https://isux.tencent.com/static/images/logo.svg",
+        "name": "ISUX",
+        "introduction": "腾讯社交用户体验设计",
+        "url": "https://isux.tencent.com",
+        "title": "前去学习"
     }
 ]
