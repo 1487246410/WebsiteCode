@@ -10,8 +10,8 @@
     1. 下载Node：https://fengmk2.com/blog/2014/03/node-env-and-faster-npm.html
     2. npm install hexo -g
     3. cd 508laboratory/
-    4. npm install hexo -g
-    5. hexo server
+    4. npm install
+    4. hexo server
 ```
 
 - #### 部署
